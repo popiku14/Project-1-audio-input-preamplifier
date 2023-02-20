@@ -1,0 +1,405 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001Dec-09-2022 at 13:04:50}
+primitive 'C_CAPC2008X126N_0805_4.7U';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='CAPC2008X126N_0805';
+    VALUE='4.7u';
+  end_body;
+end_primitive;
+primitive 'C_CAPC2008X126N_0805_1N';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='CAPC2008X126N_0805';
+    VALUE='1n';
+  end_body;
+end_primitive;
+primitive 'C_CAPC2008X126N_0805_4.7N';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='C';
+    JEDEC_TYPE='CAPC2008X126N_0805';
+    VALUE='4.7n';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR POL_16_CAPAE660X770N_';
+  pin
+    '+':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '-':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAPACITOR POL_16';
+    JEDEC_TYPE='CAPAE660X770N';
+    VALUE='10u';
+  end_body;
+end_primitive;
+primitive 'LED_2_SMD0805_LED';
+  pin
+    'A':
+      PIN_NUMBER='(A)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(C)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED_2';
+    JEDEC_TYPE='SMD0805';
+    VALUE='LED';
+  end_body;
+end_primitive;
+primitive 'CON2_1210RF_WV_12D_RADIO, MAG.';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='1210RF_WV_12D';
+    VALUE='Radio, Mag.';
+  end_body;
+end_primitive;
+primitive 'CON2_1210RF_WV_12D_PICK-UP PIEZ';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='1210RF_WV_12D';
+    VALUE='Pick-up Piezo';
+  end_body;
+end_primitive;
+primitive 'CON1_TP100_IESIRE';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON1';
+    JEDEC_TYPE='TP100';
+    VALUE='Iesire';
+  end_body;
+end_primitive;
+primitive 'CON2_1210RF_WV_12D_ALIMENTARE';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='1210RF_WV_12D';
+    VALUE='Alimentare';
+  end_body;
+end_primitive;
+primitive 'CON2_1210RF_WV_12D_INTRARE';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='1210RF_WV_12D';
+    VALUE='Intrare';
+  end_body;
+end_primitive;
+primitive 'CON2_1210RF_WV_12D_MIC., PICK-U';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='1210RF_WV_12D';
+    VALUE='Mic., Pick-up mag';
+  end_body;
+end_primitive;
+primitive 'CON1_TP100_TP100';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON1';
+    JEDEC_TYPE='TP100';
+    VALUE='TP100';
+  end_body;
+end_primitive;
+primitive 'CON2_1210RF_WV_12D_MIC., PICK_1';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CON2';
+    JEDEC_TYPE='1210RF_WV_12D';
+    VALUE='Mic., Pick-up Mag.';
+  end_body;
+end_primitive;
+primitive 'QBC846B_2_SOT23_QBC846B';
+  pin
+    'B':
+      PIN_NUMBER='(1)';
+      INPUT_LOAD='(*)';
+    'E':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'C':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='QBC846B_2';
+    JEDEC_TYPE='SOT23';
+    VALUE='QBC846B';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_47K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='47k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_100K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='100k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_4.7K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='4.7k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_22K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='22k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_1K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='1k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_68K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='68k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_150K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='150k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_1M';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='1M';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_220K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='220k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_10K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='10k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_510K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='510k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_330K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='330k';
+  end_body;
+end_primitive;
+primitive 'R_RES2012X50N_0805_15K';
+  pin
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='R';
+    JEDEC_TYPE='RES2012X50N_0805';
+    VALUE='15k';
+  end_body;
+end_primitive;
+END.

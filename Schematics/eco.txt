@@ -1,0 +1,273 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/Users/popai/Desktop/PCB_POPAIONUT432A/pcb.brd                            |
+|                                                    Fri Dec 09 13:04:51 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  0            pins ADDED TO this new net
+                                 C45.1          C48.2          C49.2          
+                                 D1.C           J2.1           J8.1           
+                                 J11.1          J13.2          R1.1           
+                                 R5.1           R12.1          R13.1          
+                                 R18.1          R25.1          R32.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12604       pins ADDED TO this new net
+                                 J2.2           R11.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12610       pins ADDED TO this new net
+                                 J1.1           R11.2          R12.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12630       pins ADDED TO this new net
+                                 C11.1          J1.2           J7.1           
+                                 J8.2           J10.2          R1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12640       pins ADDED TO this new net
+                                 C11.2          Q1.1           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12680       pins ADDED TO this new net
+                                 J3.1           J4.1           J5.1           
+                                 Q1.2           R18.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12702       pins ADDED TO this new net
+                                 J6.1           Q1.3           Q2.1           
+                                 R21.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12706       pins ADDED TO this new net
+                                 J13.1          R4.2           R22.2          
+                                 R34.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12750       pins ADDED TO this new net
+                                 C22.1          Q2.3           R4.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12756       pins ADDED TO this new net
+                                 C48.1          C49.1          Q2.2           
+                                 R5.2           R8.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N12846       pins ADDED TO this new net
+                                 C22.2          C32.1          C47.2          
+                                 R7.2           R28.2          R31.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13210       pins ADDED TO this new net
+                                 R3.2           R8.1           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/Users/popai/Desktop/PCB_POPAIONUT432A/pcb.brd                            |
+|                                                    Fri Dec 09 13:04:51 2022  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N13216       pins ADDED TO this new net
+                                 C45.2          C50.1          R21.2          
+                                 R22.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13300       pins ADDED TO this new net
+                                 C32.2          J12.1          R13.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N13552       pins ADDED TO this new net
+                                 C50.2          R25.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14513       pins ADDED TO this new net
+                                 J3.2           R7.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N14595       pins ADDED TO this new net
+                                 J4.2           R28.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15039       pins ADDED TO this new net
+                                 C46.1          J5.2           R29.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15145       pins ADDED TO this new net
+                                 R30.2          R31.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N15149       pins ADDED TO this new net
+                                 C46.2          C47.1          R29.2          
+                                 R30.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16665       pins ADDED TO this new net
+                                 J10.1          R32.2          R33.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N16830       pins ADDED TO this new net
+                                 J11.2          R33.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N21461       pins ADDED TO this new net
+                                 D1.A           R34.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N130140      pins ADDED TO this new net
+                                 R3.1           R6.2           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/Users/popai/Desktop/PCB_POPAIONUT432A/pcb.brd                            |
+|                                                    Fri Dec 09 13:04:51 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAPACITOR POL_16_CAPAE660X770N_
+ CON1_TP100_IESIRE
+ CON1_TP100_TP100
+ CON2_1210RF_WV_12D_ALIMENTARE
+ CON2_1210RF_WV_12D_INTRARE
+ CON2_1210RF_WV_12D_MIC., PICK-U
+ CON2_1210RF_WV_12D_MIC., PICK_1
+ CON2_1210RF_WV_12D_PICK-UP PIEZ
+ CON2_1210RF_WV_12D_RADIO, MAG.
+ C_CAPC2008X126N_0805_1N
+ C_CAPC2008X126N_0805_4.7N
+ C_CAPC2008X126N_0805_4.7U
+ LED_2_SMD0805_LED
+ QBC846B_2_SOT23_QBC846B
+ R_RES2012X50N_0805_100K
+ R_RES2012X50N_0805_10K
+ R_RES2012X50N_0805_150K
+ R_RES2012X50N_0805_15K
+ R_RES2012X50N_0805_1K
+ R_RES2012X50N_0805_1M
+ R_RES2012X50N_0805_220K
+ R_RES2012X50N_0805_22K
+ R_RES2012X50N_0805_330K
+ R_RES2012X50N_0805_4.7K
+ R_RES2012X50N_0805_47K
+ R_RES2012X50N_0805_510K
+ R_RES2012X50N_0805_68K
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/Users/popai/Desktop/PCB_POPAIONUT432A/pcb.brd                            |
+|                                                    Fri Dec 09 13:04:51 2022  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11                 C_CAPC2008X126N_0805_4.7U 
+ C22                 C_CAPC2008X126N_0805_4.7U 
+ C32                 C_CAPC2008X126N_0805_4.7U 
+ C45                 C_CAPC2008X126N_0805_4.7U 
+ C46                 C_CAPC2008X126N_0805_1N 
+ C47                 C_CAPC2008X126N_0805_4.7N 
+ C48                 CAPACITOR POL_16_CAPAE660X770N_ 
+ C49                 CAPACITOR POL_16_CAPAE660X770N_ 
+ C50                 CAPACITOR POL_16_CAPAE660X770N_ 
+ D1                  LED_2_SMD0805_LED     
+ J1                  CON2_1210RF_WV_12D_RADIO, MAG. 
+ J2                  CON2_1210RF_WV_12D_INTRARE 
+ J3                  CON2_1210RF_WV_12D_RADIO, MAG. 
+ J4                  CON2_1210RF_WV_12D_PICK-UP PIEZ 
+ J5                  CON2_1210RF_WV_12D_MIC., PICK-U 
+ J6                  CON1_TP100_TP100      
+ J7                  CON1_TP100_TP100      
+ J8                  CON2_1210RF_WV_12D_MIC., PICK_1 
+ J10                 CON2_1210RF_WV_12D_PICK-UP PIEZ 
+ J11                 CON2_1210RF_WV_12D_PICK-UP PIEZ 
+ J12                 CON1_TP100_IESIRE     
+ J13                 CON2_1210RF_WV_12D_ALIMENTARE 
+ Q1                  QBC846B_2_SOT23_QBC846B 
+ Q2                  QBC846B_2_SOT23_QBC846B 
+ R1                  R_RES2012X50N_0805_47K 
+ R3                  R_RES2012X50N_0805_10K 
+ R4                  R_RES2012X50N_0805_15K 
+ R5                  R_RES2012X50N_0805_1K 
+ R6                  R_RES2012X50N_0805_220K 
+ R7                  R_RES2012X50N_0805_100K 
+ R8                  R_RES2012X50N_0805_10K 
+ R11                 R_RES2012X50N_0805_100K 
+ R12                 R_RES2012X50N_0805_4.7K 
+ R13                 R_RES2012X50N_0805_22K 
+ R18                 R_RES2012X50N_0805_1K 
+ R21                 R_RES2012X50N_0805_68K 
+ R22                 R_RES2012X50N_0805_150K 
+ R25                 R_RES2012X50N_0805_1M 
+ R28                 R_RES2012X50N_0805_220K 
+ R29                 R_RES2012X50N_0805_68K 
+ R30                 R_RES2012X50N_0805_510K 
+ R31                 R_RES2012X50N_0805_330K 
+ R32                 R_RES2012X50N_0805_15K 
+ R33                 R_RES2012X50N_0805_1M 
+ R34                 R_RES2012X50N_0805_1K 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/Users/popai/Desktop/PCB_POPAIONUT432A/pcb.brd                            |
+|                                                    Fri Dec 09 13:04:51 2022  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C11.2                          PRIM_FILE      .\pstchip.dat
+ C22.2                          PRIM_FILE      .\pstchip.dat
+ C32.2                          PRIM_FILE      .\pstchip.dat
+ C45.2                          PRIM_FILE      .\pstchip.dat
+ C46.2                          PRIM_FILE      .\pstchip.dat
+ C47.2                          PRIM_FILE      .\pstchip.dat
+ C48.2                          PRIM_FILE      .\pstchip.dat
+ C49.2                          PRIM_FILE      .\pstchip.dat
+ C50.2                          PRIM_FILE      .\pstchip.dat
+ D1.C                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.2                           PRIM_FILE      .\pstchip.dat
+ J4.2                           PRIM_FILE      .\pstchip.dat
+ J5.2                           PRIM_FILE      .\pstchip.dat
+ J6.1                           PRIM_FILE      .\pstchip.dat
+ J7.1                           PRIM_FILE      .\pstchip.dat
+ J8.2                           PRIM_FILE      .\pstchip.dat
+ J10.2                          PRIM_FILE      .\pstchip.dat
+ J11.2                          PRIM_FILE      .\pstchip.dat
+ J12.1                          PRIM_FILE      .\pstchip.dat
+ J13.2                          PRIM_FILE      .\pstchip.dat
+ Q1.2                           PRIM_FILE      .\pstchip.dat
+ Q2.2                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ R18.2                          PRIM_FILE      .\pstchip.dat
+ R21.2                          PRIM_FILE      .\pstchip.dat
+ R22.2                          PRIM_FILE      .\pstchip.dat
+ R25.2                          PRIM_FILE      .\pstchip.dat
+ R28.2                          PRIM_FILE      .\pstchip.dat
+ R29.2                          PRIM_FILE      .\pstchip.dat
+ R30.2                          PRIM_FILE      .\pstchip.dat
+ R31.2                          PRIM_FILE      .\pstchip.dat
+ R32.2                          PRIM_FILE      .\pstchip.dat
+ R33.2                          PRIM_FILE      .\pstchip.dat
+ R34.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/Users/popai/Desktop/PCB_POPAIONUT432A/pcb.brd                            |
+|                                                    Fri Dec 09 13:04:51 2022  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      89                                        |
+|       Comp definitions added:      27                                        |
+|       Components added      :      45                                        |
+|       Slot property added   :      45                                        |
+|                                                                              |
+|   Total ECO changes reported:     206                                        |
+|------------------------------------------------------------------------------|
